@@ -1,0 +1,14 @@
+# OS Specific Artifacts
+.DS_Store
+
+# Environment Secrets and Variables
+*.env
+
+# Dependencies
+node_modules
+
+# Playwright Artifacts
+/test-results
+/playwright-report
+/playwright/.cache
+/playwright/.auth
